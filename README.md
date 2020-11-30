@@ -1,4 +1,5 @@
 # msp430
+This is the HDR version of the Hawkeye MSP430 firmware. The regular HDR provides two triggers for each film frame that results in two differently exposed images. The UX178 version provides 4 pulses for each frame due to the way the UX178 implements the exposure change. The table below shows different modes of operation and the switch functions.
 <div class="text_table_"><table class="text_table" style="width: 463px"><tbody><tr valign="top" class="text_table_tr"><td class="text_table_xl70" style="background-color: #538dd5"><span style="font-size:15px"><span style="color:black"><span style="font-family:Calibri">Run</span></span></span></td>
 <td class="text_table_xl71" style="background-color: #538dd5"><span style="font-size:15px"><span style="color:black"><span style="font-family:Calibri">Speed</span></span></span></td>
 <td class="text_table_xl71" style="background-color: #538dd5"><span style="font-size:15px"><span style="color:black"><span style="font-family:Calibri">Turbo</span></span></span></td>
